@@ -379,7 +379,7 @@ a {
   display: none;
   position: fixed;
   bottom: 1rem;
-  right: 1rem;
+  right: 6rem;
   z-index: 99;
   font-size: 0.8rem;
   border: none;
@@ -387,8 +387,8 @@ a {
   background-color: #737373;
   color: white;
   cursor: pointer;
-  width: 3rem;
-  height: 3rem;
+  width: 4rem;
+  height: 4rem;
   border-radius: 50%;
   transition: all 0.5s ease;
 }
